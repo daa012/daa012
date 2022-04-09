@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 
 **Tech** :  
-한 번 이상 다루어 본 기술들   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
