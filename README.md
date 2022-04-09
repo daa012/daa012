@@ -36,12 +36,11 @@ Here are some ideas to get you started:
 
 
 ### 앞으로 공부할 것들
-- html, css, Javascript, Typescript
-- React, React native
+- HTML, CSS, JavaScript, TypeScript
+- React, React Native
 
 
 ## Experience
-> 실제 인턴 경험이 있는 경우에만 작성해 주세요.
 
  **0000000(인턴)** (0000.00.00 ~ 0000.00.00)  
 - 
