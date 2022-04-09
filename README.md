@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=san&descAlignY=70">
 
 # 박다산
 
