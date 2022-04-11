@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 ## Experience
 
- **0000000(인턴)** (0000.00.00 ~ 0000.00.00)  
 - 
 
 
