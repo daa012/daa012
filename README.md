@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 블로그: https://san012.tistory.com/
 - 깃헙: https://github.com/daa012
 
-![](https://github.com/daa012/daa012/raw/main/github-metrics-daa012.svg)
-
+[여기](https://github.com/daa012/daa012/raw/main/github-metrics-daa012.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 ## Summary
 > 향후 2년안에 프론트엔드 개발자가 되어 사용하기 편리한 앱을 만들어 보고 싶습니다.
 ## Skill
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **Tech** :  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 ### 앞으로 공부할 것들
 - HTML, CSS, JavaScript, TypeScript
 - React, React Native
