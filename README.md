@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **Tech** :  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 ### 앞으로 공부할 것들
 - HTML, CSS, JavaScript, TypeScript
 - React, React Native
