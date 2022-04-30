@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 이메일: pds909090@gmail.com 
 - 블로그: https://san012.tistory.com/
 - 깃헙: https://github.com/daa012
-- ㅇㅇㅇ
-![Metrics](https://github.com/daa012/daa012/blob/main/github-metrics.svg)
+
+![Metrics](https://github.com/daa012/daa012/raw/main/github-metrics.svg)
 
 ## Summary
 > 향후 2년안에 프론트엔드 개발자가 되어 사용하기 편리한 앱을 만들어 보고 싶습니다.
