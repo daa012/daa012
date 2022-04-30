@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 블로그: https://san012.tistory.com/
 - 깃헙: https://github.com/daa012
 
-![Metrics](https://github.com/daa012/daa012/raw/main/github-metrics-daa012.svg)
+![Metrics](https://https://github.com/daa012/daa012/blob/main/github-metrics.svg)
 
 ## Summary
 > 향후 2년안에 프론트엔드 개발자가 되어 사용하기 편리한 앱을 만들어 보고 싶습니다.
